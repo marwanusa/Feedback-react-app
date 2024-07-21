@@ -1,0 +1,17 @@
+@import url('https://fonts.googleapis.com/css2?family=Overpass:ital,wght@0,100..900;1,100..900&display=swap');
+:root {
+  font-family: "Overpass", sans-serif;
+  color: white;
+
+}
+body{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: #141519;
+  height: 100vh;
+  text-shadow: 0 0 1px rgba(0, 0, 0, 0.1);
+}
+button{
+  font-family: "Overpass", sans-serif;
+}
